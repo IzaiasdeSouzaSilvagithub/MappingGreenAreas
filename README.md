@@ -1,3 +1,3 @@
 # MappingGreenAreas
 
-Neste repositório constam os arquivos utilizados em um programa (Python) cujo objetivo foi identificar e mapear áreas com vegetação (áreas vegetadas) no contexto da cidade de Barra do Garças-MT, mediante aplicação de Índices Espectrais.
+This repository contains the files used in a program (Python) whose objective was to identify and map areas with vegetation (vegetated areas) in the context of the city of Barra do Garças-MT, through the application of Spectral Indices.
